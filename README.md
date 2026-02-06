@@ -3,7 +3,6 @@
 
 An interactive WebGL fragment shader gallery showcasing GPU-powered visual effects and procedural graphics techniques.
 
-![Shader Gallery Screenshot](screenshot.png)
 
 ## Features
 
